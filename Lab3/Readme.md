@@ -8,7 +8,7 @@
 
 ### 1. Screenshots
 
-You can see all the screenshots in this file [`Lab3.pdf`](https://github.com/angelogzz/BCDV-4032/blob/master/Lab3/Lab3.pdf)
+You can see all the screenshots in this file [`Lab3.pdf`](https://github.com/angelogzz/BCDV-4032/blob/master/Lab3/4032-Lab3.pdf)
 
 ### 2. YAML files
 
