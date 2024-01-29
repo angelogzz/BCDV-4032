@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eth-react
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: eth-react
+  template:
+    metadata:
+      labels:
+        app: eth-react
+    spec:
+      containers:
+        - name: frontend
+          image: schadokar/eth-react:1.0.0
+          resources:
+            limits:
+              cpu: "500m"
+              memory: "500Mi"
+          ports:
+            - containerPort: 80

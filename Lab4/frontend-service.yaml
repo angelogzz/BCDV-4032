@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: eth-react
+spec:
+  type: LoadBalancer
+  selector:
+    app: eth-react
+  ports:
+    - protocol: TCP
+      port: 5000
+      targetPort: 80
