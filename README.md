@@ -11,3 +11,5 @@
 ### [Lab 3](https://github.com/angelogzz/BCDV-4032/blob/master/Lab3/Readme.md)
 
 ### [Lab 4](https://github.com/angelogzz/BCDV-4032/blob/master/Lab4/Readme.md)
+
+### [Lab 5](https://github.com/angelogzz/BCDV-4032/blob/master/Lab5/Readme.md)
